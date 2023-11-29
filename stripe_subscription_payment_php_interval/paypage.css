@@ -1,0 +1,9 @@
+.form-group{
+	margin: 10px;
+}
+
+.c-element{
+	border: 2px solid grey;
+	border-radius: 15px;
+	padding: 10px;
+}
